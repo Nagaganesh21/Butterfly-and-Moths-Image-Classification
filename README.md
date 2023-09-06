@@ -10,7 +10,7 @@ The project utilizes a dataset containing a diverse collection of Butterfly & Mo
 
 ## Project Tasks
 
-In this project, you will:
+In this project, We Did:
 
 1. **Data Exploration**: Dive into the dataset to gain insights into its composition and structure.
 
